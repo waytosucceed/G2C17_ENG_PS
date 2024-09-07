@@ -1,516 +1,579 @@
 {
-  "heading": "Diphthongs “ee” and “ea”",
+  "heading": "Diphthongs (oi, oy, ou, ow)",
   "topics": [
     {
-      "heading": "Diphthongs “ee” and “ea”",
+      "heading": "Diphthongs (oi, oy, ou, ow)",
       "questions": [
         {
           "questionNo": 1,
-          "question": "How do you say \"leaf\"? <br> <img width='150px' src='./assests/images/question/1.jpg'>",
+          "question": "Which word sounds like a pig noise? <br> <img width='150px' src='./assests/images/question/1.png'>",
           
           "options": [
             {
-              "text": "/lef/",
+              "text": "Moo",
               "image": "./assests/images/option/1.jpg",
-              "sound": "./assests/sounds/lef.mp3"
+              "sound": "./assests/sounds/options/moo.mp3"
             },
             {
-              "text": "/leaf/",
+              "text": "Bark",
               "image": "./assests/images/option/2.jpg",
-              "sound": "./assests/sounds/leaf.mp3"
+              "sound": "./assests/sounds/options/bark.mp3"
             },
             {
-              "text": "/loof/",
+              "text": "Oink",
               "image": "./assests/images/option/3.jpg",
-              "sound": "./assests/sounds/loof.mp3"
+              "sound": "./assests/sounds/options/oink.mp3"
             },
             {
-              "text": "/life/",
+              "text": "Meow",
               "image": "./assests/images/option/4.jpg",
-              "sound": "./assests/sounds/life.mp3"
+              "sound": "./assests/sounds/options/meow.mp3"
             }
           ],
-          "answer": 1,
-          "explanation": "The 'ea' in 'leaf' makes the long 'e' sound."
+          "answer": 2,
+          "explanation": "\"Oink\" has the \"oi\" diphthong sound and is the noise a pig makes."
         },
         {
           "questionNo": 2,
-          "question": "Pick the odd one out:",
+          "question": "What's a happy feeling that rhymes with <span style='color: blue; font-weight: bold;'>\"toy\"?</span><br><br>",
+          "questionSound":"./assests/sounds/question/toy.mp3",
           "options": [
             {
-              "text": "Sweet",
-              "image": "./assests/images/option/5.jpg"
+              "text": "Sad",
+              "image": "./assests/images/option/5.jpg",
+              "sound": "./assests/sounds/options/sad.mp3"
             },
             {
-              "text": "Meet",
-              "image": "./assests/images/option/6.jpg"
+              "text": "Joy",
+              "image": "./assests/images/option/6.jpg",
+              "sound": "./assests/sounds/options/joy.mp3"
             },
             {
-              "text": "Beet",
-              "image": "./assests/images/option/7.jpg"
+              "text": "Fun",
+              "image": "./assests/images/option/7.jpg",
+              "sound": "./assests/sounds/options/fun.mp3"
             },
             {
-              "text": "Bet",
-              "image": "./assests/images/option/8.jpg"
-            }
-          ],
-          "answer": 3,
-          "explanation": "'Bet' doesn't have the 'ee' spelling and doesn't make the long 'e' sound."
-        },
-        {
-          "questionNo": 3,
-          "question": "How many 'ee' or 'ea' sounds in <br> 'The sheep eats leaves'? <br> <img width='150px' src='./assests/images/question/3.jpg'>",
-          "questionSound":"./assests/sounds/sentence1.mp3",
-          "options": [
-            {
-              "text": "Two",
-              "image": "./assests/images/option/9.jpg"
-            },
-            {
-              "text": "Three",
-              "image": "./assests/images/option/10.jpg"
-            },
-            {
-              "text": "Four",
-              "image": "./assests/images/option/11.jpg"
-            },
-            {
-              "text": "Five",
-              "image": "./assests/images/option/12.jpg"
+              "text": "Glad",
+              "image": "./assests/images/option/8.jpg",
+              "sound": "./assests/sounds/options/glad.mp3"
             }
           ],
           "answer": 1,
-          "explanation": "'Sheep', 'eats', and 'leaves' all have the long 'e' sound."
+          "explanation": "\"Joy\" rhymes with \"toy\" and both have the \"oy\" diphthong sound."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word has the \"oi\" sound?",
+          "options": [
+            {
+              "text": "Dirt",
+              "image": "./assests/images/option/9.jpg",
+              "sound": "./assests/sounds/options/dirt.mp3"
+            },
+            {
+              "text": "Ground",
+              "image": "./assests/images/option/10.jpg",
+              "sound": "./assests/sounds/options/ground.mp3"
+            },
+            {
+              "text": "Soil",
+              "image": "./assests/images/option/11.jpg",
+              "sound": "./assests/sounds/options/soil.mp3"
+            },
+            {
+              "text": "Land",
+              "image": "./assests/images/option/12.jpg",
+              "sound": "./assests/sounds/options/land.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Soil\" means earth or dirt and has the \"oi\" diphthong sound."
         },
         {
           "questionNo": 4,
-          "question": "Which word has a different 'ea' sound? <br> ",
+          "question": "Which word has the \"ou\" sound?",
           "options": [
             {
-              "text": "Bread",
+              "text": "Inside",
               "image": "./assests/images/option/13.jpg",
-              "sound": "./assests/sounds/bread.mp3"
+              "sound": "./assests/sounds/options/inside.mp3"
             },
             {
-              "text": "Head",
+              "text": "Room",
               "image": "./assests/images/option/14.jpg",
-              "sound": "./assests/sounds/head.mp3"
+              "sound": "./assests/sounds/options/room.mp3"
             },
             {
-              "text": "Dead",
+              "text": "Soil",
               "image": "./assests/images/option/15.jpg",
-              "sound": "./assests/sounds/dead.mp3"
+              "sound": "./assests/sounds/options/soil.mp3"
             },
             {
-              "text": "Bead",
+              "text": "Out",
               "image": "./assests/images/option/16.jpg",
-              "sound": "./assests/sounds/bead.mp3"
+              "sound": "./assests/sounds/options/out.mp3"
             }
           ],
           "answer": 3,
-          "explanation": "'Bead' has a long 'e' sound, while the others have a short 'e' sound."
+          "explanation": "\"Out\" means outside and has the \"ou\" diphthong sound."
         },
         {
           "questionNo": 5,
-          "question": "What's the rule for 'ea' words?",
+          "question": "Which word means \"not up\" and has the \"ow\" sound?",
           "options": [
             {
-              "text": "Always long 'e'",
-              "image": "./assests/images/option/17.jpg"
+              "text": "Up",
+              "image": "./assests/images/option/17.jpg",
+              "sound": "./assests/sounds/options/up.mp3"
             },
             {
-              "text": "Always short 'e'",
-              "image": "./assests/images/option/18.jpg"
+              "text": "High",
+              "image": "./assests/images/option/18.jpg",
+              "sound": "./assests/sounds/options/high.mp3"
             },
             {
-              "text": "Can be long 'e' or other sounds",
-              "image": "./assests/images/option/19.jpg"
-            },
-            {
-              "text": "No rule",
-              "image": "./assests/images/option/20.jpg"
-            }
-          ],
-          "answer": 2,
-          "explanation": "'ea' often makes a long 'e' sound, but it can make other sounds too."
-        },
-        {
-          "questionNo": 6,
-          "question": "Which word has the same vowel sound as 'bee'?",
-          "options": [
-            {
-              "text": "Be",
-              "image": "./assests/images/option/21.jpg"
-            },
-            {
-              "text": "Bed",
-              "image": "./assests/images/option/22.jpg"
-            },
-            {
-              "text": "Bet",
-              "image": "./assests/images/option/23.jpg"
-            },
-            {
-              "text": "Bend",
-              "image": "./assests/images/option/24.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "'Be' has the same long 'e' sound as 'bee', despite different spellings."
-        },
-        {
-          "questionNo": 7,
-          "questionSound": "./assests/sounds/been.mp3",
-          "question": "What's the 'ee' sound in 'been'? <br> ",
-          "options": [
-            {
-              "text": "Long 'e'",
-              "image": "./assests/images/option/25.jpg"
-            },
-            {
-              "text": "Short 'i'",
-              "image": "./assests/images/option/26.jpg"
-            },
-            {
-              "text": "Can be both",
-              "image": "./assests/images/option/27.jpg"
-            },
-            {
-              "text": "Neither",
-              "image": "./assests/images/option/28.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "'Been' is pronounced with a long ‘ee’ sound."
-        },
-        {
-          "questionNo": 8,
-          "questionSound": "./assests/sounds/mr_bean.mp3",
-          "question": "Hear the word and choose the correct spelling: <br> ",
-          "options": [
-            {
-              "text": "Mr. Bean",
-              "image": "./assests/images/option/29.jpg"
-            },
-            {
-              "text": "Mr. Bin",
-              "image": "./assests/images/option/30.jpg"
-            },
-            {
-              "text": "Mr. Ban",
-              "image": "./assests/images/option/31.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "The correct spelling is B-E-A-N. The diphthong 'ea' makes a long ‘e’ sound."
-        },
-        {
-          "questionNo": 9,
-          "question": "Which word has a different 'ea' sound? <br> <img width='150px' src='./assests/images/question/9.jpg'>",
-          "options": [
-            {
-              "text": "Reach",
-              "image": "./assests/images/option/32.jpg",
-              "sound": "./assests/sounds/rench.mp3"
-            },
-            {
-              "text": "Teach",
-              "image": "./assests/images/option/33.jpg",
-              "sound": "./assests/sounds/teach.mp3"
-            },
-            {
-              "text": "Beach",
-              "image": "./assests/images/option/34.jpg",
-              "sound": "./assests/sounds/beach.mp3"
-            },
-            {
-              "text": "Heart",
-              "image": "./assests/images/option/35.jpg",
-              "sound": "./assests/sounds/heart.mp3"
-            }
-          ],
-          "answer": 3,
-          "explanation": "'Heart' has an 'a' sound, while the others have a long 'e' sound."
-        },
-        {
-          "questionNo": 10,
-          "questionSound": "./assests/sounds/read.mp3",
-          "question": "Hear the word  and complete the spelling: R_ _D <br>",
-          "options": [
-            {
-              "text": "EE",
-              "image": "./assests/images/option/36.jpg"
-            },
-            {
-              "text": "AE",
-              "image": "./assests/images/option/37.jpg"
-            },
-            {
-              "text": "EA",
-              "image": "./assests/images/option/38.jpg"
+              "text": "Down",
+              "image": "./assests/images/option/19.jpg",
+              "sound": "./assests/sounds/options/down.mp3"
             },
             {
               "text": "None of the above",
-              "image": "./assests/images/option/39.jpg"
+              "image": "./assests/images/option/20.jpg",
+              "sound": "./assests/sounds/options/none of the above.mp3"
             }
           ],
           "answer": 2,
-          "explanation": "The correct spelling is R-E-A-D. The diphthong 'ea' makes a long ‘e’ sound."
+          "explanation": "\"Down\" means not up and has the \"ow\" diphthong sound."
         },
-        
+        {
+          "questionNo": 6,
+          "question": "Which animal likes cheese and has the \"ou\" sound?",
+          "options": [
             {
-              "questionNo": 11,
-              "question": "Which word rhymes with \"bee\"? <br> ",
-              "options": [
-                {
-                  "text": "Key",
-                  "image": "./assests/images/option/40.jpg",
-                  "sound": "./assests/sounds/key.mp3"
-                },
-                {
-                  "text": "They",
-                  "image": "./assests/images/option/41.jpg",
-                  "sound": "./assests/sounds/they.mp3"
-                },
-                {
-                  "text": "Play",
-                  "image": "./assests/images/option/42.jpg",
-                  "sound": "./assests/sounds/play.mp3"
-                },
-                {
-                  "text": "Buy",
-                  "image": "./assests/images/option/43.jpg",
-                  "sound": "./assests/sounds/buy.mp3"
-                }
-              ],
-              "answer": 0,
-              "explanation": "\"Key\" rhymes with \"bee\", both having the long \"e\" sound despite different spellings."
+              "text": "Cat",
+              "image": "./assests/images/option/21.jpg",
+              "sound": "./assests/sounds/options/cat.mp3"
             },
             {
-              "questionNo": 12,
-              "question": "How many \"ee\" or \"ea\" sounds in \"The green leaves seem neat\"? <br>",
-              "options": [
-                {
-                  "text": "Two",
-                  "image": "./assests/images/option/44.jpg"
-                },
-                {
-                  "text": "Three",
-                  "image": "./assests/images/option/45.jpg"
-                },
-                {
-                  "text": "Four",
-                  "image": "./assests/images/option/46.jpg"
-                },
-                {
-                  "text": "Five",
-                  "image": "./assests/images/option/47.jpg"
-                }
-              ],
-              "answer": 2,
-              "explanation": "\"Green\", \"leaves\", \"seem\", and \"neat\" all have the long \"e\" sound."
+              "text": "Dog",
+              "image": "./assests/images/option/22.jpg",
+              "sound": "./assests/sounds/options/dog.mp3"
             },
             {
-              "questionNo": 13,
-              "question": "Which word has a different vowel sound? <br> ",
-              "options": [
-                {
-                  "text": "Meet",
-                  "image": "./assests/images/option/48.jpg",
-                  "sound": "./assests/sounds/meet.mp3"
-                },
-                {
-                  "text": "Meat",
-                  "image": "./assests/images/option/49.jpg",
-                  "sound": "./assests/sounds/meat.mp3"
-                },
-                {
-                  "text": "Melt",
-                  "image": "./assests/images/option/50.jpg",
-                  "sound": "./assests/sounds/melt.mp3"
-                },
-                {
-                  "text": "Mead",
-                  "image": "./assests/images/option/51.jpg",
-                  "sound": "./assests/sounds/mead.mp3"
-                }
-              ],
-              "answer": 2,
-              "explanation": "\"Melt\" has a short \"e\" sound, while the others have a long \"e\" sound."
+              "text": "Mouse",
+              "image": "./assests/images/option/23.jpg",
+              "sound": "./assests/sounds/options/mouse.mp3"
             },
             {
-              "questionNo": 14,
-              "question": "How do you pronounce \"sea\"? <br> <img width='150px' src='./assests/images/question/14.jpg'>",
-              "options": [
-                {
-                  "text": "Like \"say\"",
-                  "image": "./assests/images/option/52.jpg",
-                  "sound": "./assests/sounds/say.mp3"
-                },
-                {
-                  "text": "Like \"see\"",
-                  "image": "./assests/images/option/53.jpg",
-                  "sound": "./assests/sounds/see.mp3"
-                },
-                {
-                  "text": "Like \"saw\"",
-                  "image": "./assests/images/option/54.jpg",
-                  "sound": "./assests/sounds/saw.mp3"
-                },
-                {
-                  "text": "Like \"sew\"",
-                  "image": "./assests/images/option/55.jpg",
-                  "sound": "./assests/sounds/sew.mp3"
-                }
-              ],
-              "answer": 1,
-              "explanation": "\"Sea\" has the long \"e\" sound, just like \"see\"."
-            },
-            {
-              "questionNo": 15,
-              "question": "What's the rule for words ending in \"-ee\"? <br> ",
-              "options": [
-                {
-                  "text": "Always short \"e\"",
-                  "image": "./assests/images/option/56.jpg"
-                },
-                {
-                  "text": "Always long \"e\"",
-                  "image": "./assests/images/option/57.jpg"
-                },
-                {
-                  "text": "Sometimes long, sometimes short",
-                  "image": "./assests/images/option/58.jpg"
-                },
-                {
-                  "text": "No rule",
-                  "image": "./assests/images/option/59.jpg"
-                }
-              ],
-              "answer": 1,
-              "explanation": "Words ending in \"-ee\" always have the long \"e\" sound."
-            },
-            {
-              "questionNo": 16,
-              "questionSound": "./assests/sounds/free.mp3",
-              "question": "Hear the word and choose the correct spelling: <img width='150px' src='./assests/images/question/16.jpg'>",
-              "options": [
-                {
-                  "text": "Fire",
-                  "image": "./assests/images/option/60.jpg"
-                },
-                {
-                  "text": "Far",
-                  "image": "./assests/images/option/61.jpg"
-                },
-                {
-                  "text": "Fry",
-                  "image": "./assests/images/option/62.jpg"
-                },
-                {
-                  "text": "Free",
-                  "image": "./assests/images/option/63.jpg"
-                }
-              ],
-              "answer": 3,
-              "explanation": "The correct spelling is F-R-E-E. It means you don’t have to pay for it or are not being held by anything."
-            },
-            {
-              "questionNo": 17,
-              "question": "Which word has the same \"ea\" sound as \"head\"? ",
-              "questionSound": "./assests/sounds/head.mp3",
-              "options": [
-                {
-                  "text": "Heat",
-                  "image": "./assests/images/option/64.jpg",
-                  "sound": "./assests/sounds/heat.mp3"
-                },
-                {
-                  "text": "Bread",
-                  "image": "./assests/images/option/65.jpg",
-                  "sound": "./assests/sounds/bread.mp3"
-                },
-                {
-                  "text": "Bead",
-                  "image": "./assests/images/option/66.jpg",
-                  "sound": "./assests/sounds/bead.mp3"
-                },
-                {
-                  "text": "Treat",
-                  "image": "./assests/images/option/67.jpg",
-                  "sound": "./assests/sounds/treat.mp3"
-                }
-              ],
-              "answer": 1,
-              "explanation": "\"Bread\" has the same short \"e\" sound as \"head\", while the others have a long \"e\" sound."
-            },
-            {
-              "questionNo": 18,
-              "questionSound": "./assests/sounds/great.mp3",
-              "question": "Hear the wordand complete the word: GR_ _T ",
-              "options": [
-                {
-                  "text": "EE",
-                  "image": "./assests/images/option/68.jpg"
-                },
-                {
-                  "text": "EA",
-                  "image": "./assests/images/option/69.jpg"
-                }
-              ],
-              "answer": 1,
-              "explanation": "The complete spelling is G-R-E-A-T. The diphthong 'ea' makes an 'a' sound."
-            },
-            {
-              "questionNo": 19,
-              "question": "What's the \"ee\" sound in \"coffee\"? <br> <img width='150px' src='./assests/images/question/19.jpg'>",
-              "questionSound": "./assests/sounds/coffee.mp3",
-              "options": [
-                {
-                  "text": "Long \"e\"",
-                  "image": "./assests/images/option/70.jpg"
-                },
-                {
-                  "text": "Short \"e\"",
-                  "image": "./assests/images/option/71.jpg"
-                },
-                {
-                  "text": "Long \"a\"",
-                  "image": "./assests/images/option/72.jpg"
-                },
-                {
-                  "text": "Short \"s\"",
-                  "image": "./assests/images/option/73.jpg"
-                }
-              ],
-              "answer": 0,
-              "explanation": "The \"-ee\" in \"coffee\" makes the long \"e\" sound, following the rule for words ending in \"-ee\"."
-            },
-            {
-              "questionNo": 20,
-              "question": "Which word means \"to move fast\"? <br> ",
-              "options": [
-                {
-                  "text": "Speed",
-                  "image": "./assests/images/option/74.jpg"
-                },
-                {
-                  "text": "Sped",
-                  "image": "./assests/images/option/75.jpg"
-                },
-                {
-                  "text": "Spid",
-                  "image": "./assests/images/option/76.jpg"
-                },
-                {
-                  "text": "Spud",
-                  "image": "./assests/images/option/77.jpg"
-                }
-              ],
-              "answer": 0,
-              "explanation": "\"Speed\" means to move fast. It has the \"ee\" spelling making the long \"e\" sound."
+              "text": "Bird",
+              "image": "./assests/images/option/24.jpg",
+              "sound": "./assests/sounds/options/bird.mp3"
             }
-         
+          ],
+          "answer": 2,
+          "explanation": "A \"mouse\" likes cheese and has the \"ou\" diphthong sound."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word has the \"oi\" sound?",
+          "options": [
+            {
+              "text": "See",
+              "image": "./assests/images/option/25.jpg",
+              "sound": "./assests/sounds/options/see.mp3"
+            },
+            {
+              "text": "Watch",
+              "image": "./assests/images/option/26.jpg",
+              "sound": "./assests/sounds/options/watch.mp3"
+            },
+            {
+              "text": "Look",
+              "image": "./assests/images/option/27.jpg",
+              "sound": "./assests/sounds/options/look.mp3"
+            },
+            {
+              "text": "Point",
+              "image": "./assests/images/option/28.jpg",
+              "sound": "./assests/sounds/options/point.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "To \"point\" means to look at something and has the \"oi\" diphthong sound."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank:<br> <span style='color: blue; font-weight: bold;'>The cow says \"m__ __\".</span> <br> <img width='150px' src='./assests/images/question/8.png'>",
+          "options": [
+            {
+              "text": "ow, oo",
+              "image": "./assests/images/option/29.jpg",
+              "sound": "./assests/sounds/options/ow, oo.mp3"
+            },
+            {
+              "text": "aw, oo",
+              "image": "./assests/images/option/30.jpg",
+              "sound": "./assests/sounds/options/aw, oo.mp3"
+            },
+            {
+              "text": "ow, ow",
+              "image": "./assests/images/option/31.jpg",
+              "sound": "./assests/sounds/options/ow, ow.mp3"
+            },
+            {
+              "text": "aw, ow",
+              "image": "./assests/images/option/32.jpg",
+              "sound": "./assests/sounds/options/aw, ow.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Cow\" uses the \"ow\" diphthong and \"moo\" is the sound a cow makes."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word has a different sound?",
+          "options": [
+            {
+              "text": "Join",
+              "image": "./assests/images/option/33.jpg",
+              "sound": "./assests/sounds/options/join.mp3"
+            },
+            {
+              "text": "Coin",
+              "image": "./assests/images/option/34.jpg",
+              "sound": "./assests/sounds/options/coin.mp3"
+            },
+            {
+              "text": "Town",
+              "image": "./assests/images/option/35.jpg",
+              "sound": "./assests/sounds/options/town.mp3"
+            },
+            {
+              "text": "Point",
+              "image": "./assests/images/option/36.jpg",
+              "sound": "./assests/sounds/options/point.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Town\" has a different sound. It uses the \"ow\" diphthong, while the other words (join, coin, point) all use the \"oi\" sound."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: <br><span style='color: blue; font-weight: bold;'> The girl asked \"h__ __?\"</span> <br> <img width='150px' src='./assests/images/question/10.png'>",
+          "options": [
+            {
+              "text": "ow",
+              "image": "./assests/images/option/37.jpg",
+              "sound": "./assests/sounds/options/ow.mp3"
+            },
+            {
+              "text": "ou",
+              "image": "./assests/images/option/38.jpg",
+              "sound": "./assests/sounds/options/ou.mp3"
+            },
+            {
+              "text": "oi",
+              "image": "./assests/images/option/39.jpg",
+              "sound": "./assests/sounds/options/oi.mp3"
+            },
+            {
+              "text": "oy",
+              "image": "./assests/images/option/40.jpg",
+              "sound": "./assests/sounds/options/oy.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"How\" uses the \"ow\" diphthong."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank:<br> <span style='color: blue; font-weight: bold;'>I can p__ __nt with my finger.</span> <br> <img width='150px' src='./assests/images/question/11.png'>",
+          "options": [
+            {
+              "text": "oi",
+              "image": "./assests/images/option/41.jpg",
+              "sound": "./assests/sounds/options/oi.mp3"
+            },
+            {
+              "text": "oy",
+              "image": "./assests/images/option/42.jpg",
+              "sound": "./assests/sounds/options/oy.mp3"
+            },
+            {
+              "text": "ou",
+              "image": "./assests/images/option/43.jpg",
+              "sound": "./assests/sounds/options/ou.mp3"
+            },
+            {
+              "text": "ow",
+              "image": "./assests/images/option/44.jpg",
+              "sound": "./assests/sounds/options/ow.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Point\" uses the \"oi\" diphthong."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word has the \"ow\" sound like in \"now\"?<br><br>",
+          "questionSound":"./assests/sounds/question/now.mp3",
+
+          "options": [
+            {
+              "text": "Loud",
+              "image": "./assests/images/option/45.jpg",
+              "sound": "./assests/sounds/options/loud.mp3"
+            },
+            {
+              "text": "Flew",
+              "image": "./assests/images/option/46.jpg",
+              "sound": "./assests/sounds/options/flew.mp3"
+            },
+            {
+              "text": "Low",
+              "image": "./assests/images/option/47.jpg",
+              "sound": "./assests/sounds/options/low.mp3"
+            },
+            {
+              "text": "Foul",
+              "image": "./assests/images/option/48.jpg",
+              "sound": "./assests/sounds/options/foul.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Low\" has the \"ow\" sound like in \"now.\""
+        },
+        {
+          "questionNo": 13,
+          "question": "Find the odd one out:",
+          "options": [
+            {
+              "text": "Soil",
+              "image": "./assests/images/option/49.jpg",
+              "sound": "./assests/sounds/options/soil.mp3"
+            },
+            {
+              "text": "Boil",
+              "image": "./assests/images/option/50.jpg",
+              "sound": "./assests/sounds/options/boil.mp3"
+            },
+            {
+              "text": "Foil",
+              "image": "./assests/images/option/51.jpg",
+              "sound": "./assests/sounds/options/foil.mp3"
+            },
+            {
+              "text": "Fool",
+              "image": "./assests/images/option/52.jpg",
+              "sound": "./assests/sounds/options/fool.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Fool\" doesn't belong. The other words (soil, boil, foil) all use the \"oi\" diphthong, while \"fool\" uses a different sound."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank: <br><span style='color: blue; font-weight: bold;'> The m__ __se ran into its hole.</span> <br> <img width='150px' src='./assests/images/question/14.png'>",
+          "options": [
+            {
+              "text": "ou",
+              "image": "./assests/images/option/53.jpg",
+              "sound": "./assests/sounds/options/ou.mp3"
+            },
+            {
+              "text": "ow",
+              "image": "./assests/images/option/54.jpg",
+              "sound": "./assests/sounds/options/ow.mp3"
+            },
+            {
+              "text": "oi",
+              "image": "./assests/images/option/55.jpg",
+              "sound": "./assests/sounds/options/oi.mp3"
+            },
+            {
+              "text": "oy",
+              "image": "./assests/images/option/56.jpg",
+              "sound": "./assests/sounds/options/oy.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Mouse\" uses the \"ou\" diphthong to make the sound we hear in \"house\" and \"out.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word has the same sound as <span style='color: blue; font-weight: bold;'>\"toy\"</span>?<br><br>",
+          "questionSound":"./assests/sounds/question/toy.mp3",
+
+          "options": [
+            {
+              "text": "Ten",
+              "image": "./assests/images/option/57.jpg",
+              "sound": "./assests/sounds/options/ten.mp3"
+            },
+            {
+              "text": "Toe",
+              "image": "./assests/images/option/58.jpg",
+              "sound": "./assests/sounds/options/toe.mp3"
+            },
+            {
+              "text": "Two",
+              "image": "./assests/images/option/59.jpg",
+              "sound": "./assests/sounds/options/two.mp3"
+            },
+            {
+              "text": "Joy",
+              "image": "./assests/images/option/60.jpg",
+              "sound": "./assests/sounds/options/joy.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Joy\" has the same sound as \"toy.\" Both words use the \"oy\" diphthong."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word has the \"ou\" sound?",
+          "options": [
+            {
+              "text": "Cow",
+              "image": "./assests/images/option/61.jpg",
+              "sound": "./assests/sounds/options/cow.mp3"
+            },
+            {
+              "text": "Toy",
+              "image": "./assests/images/option/62.jpg",
+              "sound": "./assests/sounds/options/toy.mp3"
+            },
+            {
+              "text": "House",
+              "image": "./assests/images/option/63.jpg",
+              "sound": "./assests/sounds/options/house.mp3"
+            },
+            {
+              "text": "Joy",
+              "image": "./assests/images/option/64.jpg",
+              "sound": "./assests/sounds/options/joy.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"House\" has the \"ou\" sound. When we say \"house,\" we hear the \"ou\" sound in the middle of the word, just like in \"mouse\" or \"loud.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank: <br><span style='color: blue; font-weight: bold;'> The c__ __n is shiny. </span><br> <img width='150px' src='./assests/images/question/17.png'>",
+          "options": [
+            {
+              "text": "oi",
+              "image": "./assests/images/option/65.jpg",
+              "sound": "./assests/sounds/options/oi.mp3"
+            },
+            {
+              "text": "oy",
+              "image": "./assests/images/option/66.jpg",
+              "sound": "./assests/sounds/options/oy.mp3"
+            },
+            {
+              "text": "ou",
+              "image": "./assests/images/option/67.jpg",
+              "sound": "./assests/sounds/options/ou.mp3"
+            },
+            {
+              "text": "ow",
+              "image": "./assests/images/option/68.jpg",
+              "sound": "./assests/sounds/options/ow.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Coin\" uses the \"oi\" diphthong."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word rhymes with <span style='color: blue; font-weight: bold;'>\"how\"</span>? <br> <img width='150px' src='./assests/images/question/10.png'><br>",
+          "questionSound":"./assests/sounds/question/how.mp3",
+
+          "options": [
+            {
+              "text": "Low",
+              "image": "./assests/images/option/69.jpg",
+              "sound": "./assests/sounds/options/low.mp3"
+            },
+            {
+              "text": "Cow",
+              "image": "./assests/images/option/70.jpg",
+              "sound": "./assests/sounds/options/cow.mp3"
+            },
+            {
+              "text": "Toy",
+              "image": "./assests/images/option/71.jpg",
+              "sound": "./assests/sounds/options/toy.mp3"
+            },
+            {
+              "text": "Boy",
+              "image": "./assests/images/option/72.jpg",
+              "sound": "./assests/sounds/options/boy.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Cow\" rhymes with \"how.\" Both words use the \"ow\" diphthong to make the same sound at the end."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> The cl__ __d is big and white.</span> <br> <img width='150px' src='./assests/images/question/19.png'>",
+          "options": [
+            {
+              "text": "oy",
+              "image": "./assests/images/option/73.jpg",
+              "sound": "./assests/sounds/options/oy.mp3"
+            },
+            {
+              "text": "ou",
+              "image": "./assests/images/option/74.jpg",
+              "sound": "./assests/sounds/options/ou.mp3"
+            },
+            {
+              "text": "oi",
+              "image": "./assests/images/option/75.jpg",
+              "sound": "./assests/sounds/options/oi.mp3"
+            },
+            {
+              "text": "ow",
+              "image": "./assests/images/option/76.jpg",
+              "sound": "./assests/sounds/options/ow.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Cloud' uses the 'ou' diphthong, which makes the same sound as in 'loud' or 'proud.'"
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word rhymes with <span style='color: blue; font-weight: bold;'>\"enjoy\"</span>?<br><br>",
+          "questionSound":"./assests/sounds/question/enjoy.mp3",
+
+          "options": [
+            {
+              "text": "Toy",
+              "image": "./assests/images/option/77.jpg",
+              "sound": "./assests/sounds/options/toy.mp3"
+            },
+            {
+              "text": "Out",
+              "image": "./assests/images/option/78.jpg",
+              "sound": "./assests/sounds/options/out.mp3"
+            },
+            {
+              "text": "Loud",
+              "image": "./assests/images/option/79.jpg",
+              "sound": "./assests/sounds/options/loud.mp3"
+            },
+            {
+              "text": "Cow",
+              "image": "./assests/images/option/80.jpg",
+              "sound": "./assests/sounds/options/cow.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Toy' rhymes with 'enjoy.' Both words use the 'oy' diphthong to make the same sound at the end."
+        }
       ]
     }
   ]
